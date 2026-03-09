@@ -1,0 +1,17 @@
+# Sensitive config
+config.py
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# Data files
+*.db
+*.log
+run/
+.idea/
